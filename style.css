@@ -341,7 +341,7 @@ input.input-text {
 
 .rightb3list {
     list-style-type: none;
-    background: url(/img/list-icon-upload-u-127-copy.png) no-repeat, url(/img/.png) 11.4px 12px no-repeat, url(/img/list-icon-upload-u-127-copy1.png) 0px 90px no-repeat, url(/img/123.png) 11px 103px no-repeat;
+    background: url(img/list-icon-upload-u-127-copy.png) no-repeat, url(img/.png) 11.4px 12px no-repeat, url(img/list-icon-upload-u-127-copy1.png) 0px 90px no-repeat, url(img/123.png) 11px 103px no-repeat;
 }
 
 .listb3 {
@@ -617,7 +617,7 @@ input.input-text {
     font-family: 'OpenSans', sans-serif;
     font-style: italic;
     padding: 24px 14px;
-    background: url(/img/u-229.png);
+    background: url(img/u-229.png);
 }
 
 .photos-names {
