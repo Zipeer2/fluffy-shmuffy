@@ -811,8 +811,12 @@ div.photo img {
 }
 
 @media screen and (max-width: 1660px) {
-    .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9 {
-        padding: 30px;
+    .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .header, .footer1, .footer2 {
+        padding: 15px;
+    }
+
+    .form-contact, .containerb7, .containerb6, .containerb5, .block4, .block3, .block2, .footer1, .wrapperblock1, .header, .footer2 {
+        justify-content: space-around;
     }
 }
 
