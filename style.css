@@ -810,6 +810,11 @@ div.photo img {
     margin-right: 30px;
 }
 
+@media screen and (max-width: 1660px) {
+    .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9 {
+        padding: 30px;
+    }
+}
 
 
 
